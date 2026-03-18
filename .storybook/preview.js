@@ -18,3 +18,4 @@ const preview = {
 };
 
 export default preview;import '../src/index.css';
+import '../src/figma-tokens.css';

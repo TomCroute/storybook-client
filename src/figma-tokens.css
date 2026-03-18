@@ -1,0 +1,105 @@
+/* figma-tokens.css */
+/* Généré depuis Obra shadcn/ui kit — primary = brand-shades/500 (bleu) */
+/* NE PAS MODIFIER MANUELLEMENT */
+
+:root {
+  /* ── Couleurs sémantiques (light) ── */
+  --background: #ffffff;
+  --foreground: #0a0a0a;
+  --primary: #3b82f6;
+  --primary-foreground: #fafafa;
+  --secondary: #f5f5f5;
+  --secondary-foreground: #171717;
+  --accent: #f5f5f5;
+  --accent-foreground: #171717;
+  --muted: #f5f5f5;
+  --muted-foreground: #737373;
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+  --border: #e5e5e5;
+  --input: #ffffff;
+  --card: #ffffff;
+  --card-foreground: #0a0a0a;
+  --popover: #000000;
+  --popover-foreground: #ffffff;
+
+  /* ── Focus ── */
+  --ring: #d4d4d4;
+  --ring-error: #fca5a5;
+
+  /* ── Sidebar ── */
+  --sidebar: #fafafa;
+  --sidebar-foreground: #404040;
+  --sidebar-accent: #f5f5f5;
+  --sidebar-accent-foreground: #171717;
+  --sidebar-primary: #171717;
+  --sidebar-primary-foreground: #fafafa;
+  --sidebar-border: #e5e5e5;
+  --sidebar-ring: #d4d4d4;
+  --sidebar-muted: #737373;
+
+  /* ── Border radius ── */
+  --rounded-none: 0px;
+  --rounded-xs: 2px;
+  --rounded-sm: 4px;
+  --rounded-md: 6px;
+  --rounded-lg: 8px;
+  --radius: 10px;
+  --rounded-xl: 12px;
+  --rounded-2xl: 16px;
+  --rounded-3xl: 24px;
+  --rounded-full: 9999px;
+
+  /* ── Typographie ── */
+  --font-sans: Geist, sans-serif;
+  --font-mono: "Geist Mono", monospace;
+
+  --text-h1-size: 48px;
+  --text-h1-line-height: 48px;
+  --text-h1-letter-spacing: -1.5px;
+  --text-h2-size: 30px;
+  --text-h2-line-height: 30px;
+  --text-h3-size: 24px;
+  --text-h3-line-height: 28.8px;
+  --text-h4-size: 20px;
+  --text-h4-line-height: 24px;
+  --text-base-size: 16px;
+  --text-base-line-height: 24px;
+  --text-sm-size: 14px;
+  --text-sm-line-height: 20px;
+  --text-xs-size: 12px;
+  --text-xs-line-height: 16px;
+
+  /* ── Chart colors (light) ── */
+  --chart-1: #f54a00;
+  --chart-2: #009689;
+  --chart-3: #104e64;
+  --chart-4: #ffb900;
+  --chart-5: #fe9a00;
+}
+
+/* ── Dark mode ── */
+[data-theme="dark"], .dark {
+  --background: #000000;
+  --foreground: #fafafa;
+  --primary: #f5f5f5;
+  --primary-foreground: #0a0a0a;
+  --secondary: #262626;
+  --secondary-foreground: #f5f5f5;
+  --accent: #171717;
+  --accent-foreground: #f5f5f5;
+  --muted: #171717;
+  --muted-foreground: #a3a3a3;
+  --destructive: #9e4042;
+  --destructive-foreground: #ffffff;
+  --border: #404040;
+  --input: rgba(255, 255, 255, 0.05);
+  --card: #171717;
+  --card-foreground: #ffffff;
+  --ring: #404040;
+  --chart-1: #1447e6;
+  --chart-2: #00bc7d;
+  --chart-3: #fd9a00;
+  --chart-4: #ad46ff;
+  --chart-5: #ff2056;
+}
