@@ -5,7 +5,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* ── Généré automatiquement par figma-sync.js — ne pas modifier ── */
+/* ── Généré par figma-sync.cjs — ne pas modifier ── */
 :root {
     --background: oklch(1.000 0.000 89.9);
     --foreground: oklch(0.145 0.000 89.9);
@@ -13,7 +13,7 @@
     --card-foreground: oklch(0.145 0.000 89.9);
     --popover: oklch(1.000 0.000 89.9);
     --popover-foreground: oklch(0.145 0.000 89.9);
-    --primary: oklch(0.000 0.000 0.0);
+    --primary: oklch(0.696 0.149 162.5);
     --primary-foreground: oklch(0.985 0.000 89.9);
     --secondary: oklch(0.970 0.000 89.9);
     --secondary-foreground: oklch(0.145 0.000 89.9);
@@ -28,7 +28,7 @@
     --radius: 0.625rem;
     --sidebar: oklch(1.000 0.000 89.9);
     --sidebar-foreground: oklch(0.145 0.000 89.9);
-    --sidebar-primary: oklch(0.000 0.000 0.0);
+    --sidebar-primary: oklch(0.696 0.149 162.5);
     --sidebar-primary-foreground: oklch(0.985 0.000 89.9);
     --sidebar-accent: oklch(0.970 0.000 89.9);
     --sidebar-accent-foreground: oklch(0.145 0.000 89.9);
