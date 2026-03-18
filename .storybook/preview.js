@@ -17,4 +17,4 @@ const preview = {
   },
 };
 
-export default preview;
+export default preview;import '../src/index.css';
