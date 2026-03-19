@@ -1,0 +1,55 @@
+/* tokens.css — généré par figma-sync.cjs */
+/* Chargé après shadcn pour écraser les valeurs par défaut */
+
+:root {
+  --background: oklch(1.000 0.000 89.9) !important;
+  --foreground: oklch(0.145 0.000 89.9) !important;
+  --primary: oklch(0.696 0.149 162.5) !important;
+  --primary-foreground: oklch(0.985 0.000 89.9) !important;
+  --secondary: oklch(0.970 0.000 89.9) !important;
+  --secondary-foreground: oklch(0.145 0.000 89.9) !important;
+  --muted: oklch(0.970 0.000 89.9) !important;
+  --muted-foreground: oklch(0.556 0.000 89.9) !important;
+  --accent: oklch(0.970 0.000 89.9) !important;
+  --accent-foreground: oklch(0.145 0.000 89.9) !important;
+  --destructive: oklch(0.577 0.215 27.3) !important;
+  --border: oklch(0.922 0.000 89.9) !important;
+  --input: oklch(0.922 0.000 89.9) !important;
+  --ring: oklch(0.708 0 0);
+  --radius: 0.625rem;
+  --card: oklch(1.000 0.000 89.9) !important;
+  --card-foreground: oklch(0.145 0.000 89.9) !important;
+  --popover: oklch(1.000 0.000 89.9) !important;
+  --popover-foreground: oklch(0.145 0.000 89.9) !important;
+  --sidebar: oklch(1.000 0.000 89.9) !important;
+  --sidebar-foreground: oklch(0.145 0.000 89.9) !important;
+  --sidebar-primary: oklch(0.696 0.149 162.5) !important;
+  --sidebar-primary-foreground: oklch(0.985 0.000 89.9) !important;
+  --sidebar-accent: oklch(0.970 0.000 89.9) !important;
+  --sidebar-accent-foreground: oklch(0.145 0.000 89.9) !important;
+  --sidebar-border: oklch(0.922 0.000 89.9) !important;
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.000 0.000 0.0) !important;
+  --foreground: oklch(0.985 0.000 89.9) !important;
+  --primary: oklch(0.970 0.000 89.9) !important;
+  --primary-foreground: oklch(0.145 0.000 89.9) !important;
+  --secondary: oklch(0.269 0.000 89.9) !important;
+  --secondary-foreground: oklch(0.985 0.000 89.9) !important;
+  --muted: oklch(0.205 0.000 89.9) !important;
+  --muted-foreground: oklch(0.715 0.000 89.9) !important;
+  --accent: oklch(0.205 0.000 89.9) !important;
+  --accent-foreground: oklch(0.985 0.000 89.9) !important;
+  --destructive: oklch(0.499 0.126 21.5) !important;
+  --border: oklch(0.371 0.000 89.9) !important;
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --card: oklch(0.000 0.000 0.0) !important;
+  --card-foreground: oklch(0.985 0.000 89.9) !important;
+  --sidebar: oklch(0.000 0.000 0.0) !important;
+  --sidebar-foreground: oklch(0.985 0.000 89.9) !important;
+  --sidebar-primary: oklch(0.970 0.000 89.9) !important;
+  --sidebar-primary-foreground: oklch(0.145 0.000 89.9) !important;
+}
